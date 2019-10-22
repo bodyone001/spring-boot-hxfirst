@@ -1,4 +1,4 @@
-package com.hxfist.dto;
+package com.hxfirst.dto;
 
 public class HelloMessage {
 

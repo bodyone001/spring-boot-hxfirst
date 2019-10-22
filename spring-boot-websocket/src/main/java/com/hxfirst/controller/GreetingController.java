@@ -1,7 +1,7 @@
-package com.hxfist.controller;
+package com.hxfirst.controller;
 
-import com.hxfist.dto.Greeting;
-import com.hxfist.dto.HelloMessage;
+import com.hxfirst.dto.Greeting;
+import com.hxfirst.dto.HelloMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;

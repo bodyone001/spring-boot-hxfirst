@@ -1,4 +1,4 @@
-package com.hxfist.config;
+package com.hxfirst.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
