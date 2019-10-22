@@ -14,6 +14,7 @@ import java.util.Date;
 @Slf4j
 @Component
 public class ServerTask {
+
     @Autowired
     private SimpMessagingTemplate wsTemplate;
 
@@ -28,4 +29,5 @@ public class ServerTask {
                 new Greeting(DateUtil.formatDateTime(new Date())));
         log.info("【推送消息】执行结束：{}", DateUtil.formatDateTime(new Date()));
     }
+
 }

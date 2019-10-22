@@ -10,15 +10,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>spring-boot-websocket</artifactId>
-
     <name>spring-boot-websocket</name>
     <!-- FIXME change it to the project's website -->
-    <url>http://www.example.com</url>
+    <url>http://www.hxfist.com</url>
 
    <properties>
        <hutool.version>4.6.6</hutool.version>
    </properties>
-
 
     <dependencies>
         <dependency>
